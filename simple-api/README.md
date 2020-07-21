@@ -1,3 +1,3 @@
 # simple api
 
-using oak [std](https://oakserver.github.io/oak)
+using [oak](https://oakserver.github.io/oak)
